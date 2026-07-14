@@ -7,6 +7,9 @@ import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.example.item.ModItems;
+import com.example.block.ModBlocks;
+
 public class TemplateMod implements ModInitializer {
 	public static final String MOD_ID = "template-mod";
 
@@ -22,6 +25,10 @@ public class TemplateMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+
+		// Register mod content
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 
 	public static Identifier id(String path) {

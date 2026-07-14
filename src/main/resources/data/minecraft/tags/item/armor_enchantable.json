@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "template-mod:stahl_helm",
+    "template-mod:stahl_brustpanzer",
+    "template-mod:stahl_hose",
+    "template-mod:stahl_schuhe"
+  ]
+}

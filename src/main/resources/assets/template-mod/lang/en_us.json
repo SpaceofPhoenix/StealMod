@@ -1,0 +1,17 @@
+{
+  "item.template-mod.rohstahl_gemisch": "Raw Steel Mixture",
+  "item.template-mod.stahlbarren": "Steel Ingot",
+  "item.template-mod.stahl_spitzhacke": "Steel Pickaxe",
+  "item.template-mod.stahl_axt": "Steel Axe",
+  "item.template-mod.stahl_schaufel": "Steel Shovel",
+  "item.template-mod.stahl_hacke": "Steel Hoe",
+  "item.template-mod.stahl_schwert": "Steel Sword",
+  "item.template-mod.stahl_helm": "Steel Helmet",
+  "item.template-mod.stahl_brustpanzer": "Steel Chestplate",
+  "item.template-mod.stahl_hose": "Steel Leggings",
+  "item.template-mod.stahl_schuhe": "Steel Boots",
+  "block.template-mod.stahl_block": "Steel Block",
+  "block.template-mod.stahl_door": "Steel Door",
+  "block.template-mod.stahl_trapdoor": "Steel Trapdoor",
+  "block.template-mod.verstaerkter_anvil": "Reinforced Anvil"
+}

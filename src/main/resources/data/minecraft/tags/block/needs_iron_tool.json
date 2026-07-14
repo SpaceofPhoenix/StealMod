@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "template-mod:stahl_block",
+    "template-mod:stahl_door",
+    "template-mod:stahl_trapdoor",
+    "template-mod:verstaerkter_anvil"
+  ]
+}
